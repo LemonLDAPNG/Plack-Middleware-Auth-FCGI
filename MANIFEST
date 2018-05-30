@@ -1,0 +1,6 @@
+Changes
+lib/Plack/Middleware/Auth/FCGI.pm
+Makefile.PL
+MANIFEST
+README.md
+t/Plack-Middleware-Auth-FCGI.t
