@@ -2,7 +2,7 @@ package Plack::Middleware::Auth::FCGI;
 
 use strict;
 
-our $VERSION = '0.01';
+our $VERSION = '0.02';
 
 use base qw(Plack::Middleware);
 use Plack::Util;
