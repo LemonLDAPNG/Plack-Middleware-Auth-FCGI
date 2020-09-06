@@ -1,7 +1,7 @@
 Plack::Middleware::Auth::FCGI
 =============================
 
-Authentication middleware that query remote FastCGI server
+Authentication middleware that queries remote FastCGI server
 
 ## SYNOPSIS
 
